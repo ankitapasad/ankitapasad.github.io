@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ankita Pasad / Site Title"
 title_separator          : "-"
 name                     : &name "Ankita Pasad"
-description              : &description "personal description"
+description              : &description "Ph.D. Candidate at TTIC"
 url                      : https://ankitapasad.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ankitapasad/ankitapasad.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Ankita Pasad"
   avatar           : "profile.png"
-  bio              : "Ph.D. Candidate"
+  bio              : "Ph.D. Candidate at TTIC"
   location         : "Chicago, IL"
   employer         :
   pubmed           : 
