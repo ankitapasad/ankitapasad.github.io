@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ankita Pasad's Homepage'"
+title                    : "Ankita Pasad's Homepage"
 title_separator          : "-"
 name                     : &name "Ankita Pasad"
 description              : &description "Ph.D. Candidate at TTIC"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/ankita-pasad/"
   orcid            : 
   pinterest        :
   soundcloud       :
