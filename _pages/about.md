@@ -25,4 +25,4 @@ I have served as a reviewer for ACL, ICASSP, Interspeech, EMNLP, and SLT, and ha
 
 - May, 2023: I am presenting our work on What Do Self-Supervised Speech Models Know? A Layer-Wise Analysis at [MMLS 2023](https://www.midwest-ml.org/2023/).
 
-- Dec, 2022: I am presenting our work on What Do Self-Supervised Speech Models Know? A Layer-Wise Analysis at [TTIC Industry Open House] (https://www.ttic.edu/industry-open-house/)
+- Dec, 2022: I am presenting our work on What Do Self-Supervised Speech Models Know? A Layer-Wise Analysis at [TTIC Industry Open House](https://www.ttic.edu/industry-open-house/)
