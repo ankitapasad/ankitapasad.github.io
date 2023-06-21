@@ -19,10 +19,10 @@ I have served as a reviewer for ACL, ICASSP, Interspeech, EMNLP, and SLT, and ha
 
 ### News
 
-- June, 2023: I am presenting our work on *Comparative layer-wise analysis of self-supervised speech models* at [ICASSP 2023](https://2023.ieeeicassp.org/).
+- June 2023: Outstanding reviewer recognition by ICASSP.
 
-- June, 2023: I am presenting my thesis research at ICASSP Rising Stars in Signal Processing.
+- June 2023: I am presenting our work on *Comparative layer-wise analysis of self-supervised speech models* at [ICASSP 2023](https://2023.ieeeicassp.org/) and my thesis research at ICASSP Rising Stars in Signal Processing.
 
-- May, 2023: I am presenting our work on *What Do Self-Supervised Speech Models Know? A Layer-Wise Analysis* at [MMLS 2023](https://www.midwest-ml.org/2023/).
+- May 2023: I am presenting our work on *What Do Self-Supervised Speech Models Know? A Layer-Wise Analysis* at [MMLS 2023](https://www.midwest-ml.org/2023/).
 
-- Dec, 2022: I am presenting our work on *What Do Self-Supervised Speech Models Know? A Layer-Wise Analysis* at [TTIC Industry Open House](https://www.ttic.edu/industry-open-house/).
+- Dec 2022: I am presenting our work on *What Do Self-Supervised Speech Models Know? A Layer-Wise Analysis* at [TTIC Industry Open House](https://www.ttic.edu/industry-open-house/).
