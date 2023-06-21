@@ -17,7 +17,7 @@ Over the course of my research journey, I have been interested in multimodal lea
 I have served as a reviewer for ACL, ICASSP, Interspeech, EMNLP, and SLT, and have been a co-chair of the Women at TTIC group. 
 
 
-### News
+### Recent news
 
 - June 2023: Outstanding reviewer recognition by ICASSP.
 
