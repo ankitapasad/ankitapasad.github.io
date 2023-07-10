@@ -19,7 +19,9 @@ I have served as a reviewer for ACL, ICASSP, Interspeech, EMNLP, and SLT, and ha
 
 ### Recent news
 
-- June 2023: Outstanding reviewer recognition by ICASSP 2023.
+- July 2023: Our work studying [What self-supervised speech models know about words?](https://arxiv.org/abs/2307.00162) is out on arXiv. Joint work with Chung-Ming Chien, Shane Settle, and Karen Livescu. 
+
+- June 2023: [Outstanding reviewer recognition by ICASSP 2023](https://2023.ieeeicassp.org/outstanding-reviewer-recognitions/).
 
 - June 2023: I am presenting our work on *Comparative layer-wise analysis of self-supervised speech models* at [ICASSP 2023](https://2023.ieeeicassp.org/) and my thesis research at the [ICASSP Rising Stars in Signal Processing](https://2023.ieeeicassp.org/rising-stars-workshop/).
 
