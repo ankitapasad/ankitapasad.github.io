@@ -19,11 +19,13 @@ I have served as a reviewer for ACL, ICASSP, Interspeech, EMNLP, and SLT, and ha
 
 ### Recent news
 
-- Jan 2024: Our work [What self-supervised speech models know about words?](https://arxiv.org/abs/2307.00162) has been accepted to appear in TACL 2024.
+- Jan 2024: Our work [What self-supervised speech models know about words?](https://arxiv.org/abs/2307.00162) has been accepted to appear in TACL 2024. Joint work with Chung-Ming Chien, Shane Settle, and Karen Livescu. 
 
 - Dec 2023: Successfully proposed my thesis. 
 
 - Nov 2023: Our work *SLUE-PERB: A Spoken Language Understanding Performance Benchmark and Toolkit*, Siddhant Arora, Roshan Sharma, Ankita Pasad, Hira Dhamyal, William Chen, Suwon Shon, Hung-yi Lee, Karen Livescu, and Shinji Watanabe, is accepted to the SPARKS workshop, ASRU 2023.
+
+- Nov 2023: I am presenting our work on [Comparative layer-wise analysis of self-supervised speech models](https://arxiv.org/abs/2211.03929) at [TTIC 20th Anniversary Woskshop](https://sites.google.com/ttic.edu/ttic-20th-anniversary-workshop/).  
 
 - July 2023: Our work studying [What self-supervised speech models know about words?](https://arxiv.org/abs/2307.00162) is out on arXiv. Joint work with Chung-Ming Chien, Shane Settle, and Karen Livescu. 
 
